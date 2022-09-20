@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b169762a-7f73-472a-9d01-22d06c8371c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parqueadero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EspacioParqueo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/usoparqueadero.java" afterDir="false" />
-    </list>
+    <list default="true" id="b169762a-7f73-472a-9d01-22d06c8371c0" name="Changes" comment="falta unitest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +41,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662676890284</updated>
     </task>
+    <task id="LOCAL-00001" summary="falta unitest">
+      <created>1663702420611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663702420612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="falta unitest" />
+    <option name="LAST_COMMIT_MESSAGE" value="falta unitest" />
   </component>
 </project>
